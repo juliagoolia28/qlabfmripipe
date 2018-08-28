@@ -9,7 +9,7 @@ Macintosh HD/Users/qigroup/Documents/project/blast/in-scanner\
 -Copy the output_behavioral_template (main in-scanner folder) to the subject’s folder (change template to the subject ID)\
 -Open the ASL folder\
  - Open the subject’s first auditory.csv file\
- - Column F identifies whether they began with random ‘R’ or structured ‘S’\
+ - Column F identifies whether they began with random ‘R’, structured ‘S’, or blank 'B'\
  - Column A identifies whether they began with tones (e.g. 1A) or syllables (e.g. pa)\
  
 -In the subject’s new output_behavioral file you created, record this information into columns E and F\
@@ -20,7 +20,7 @@ Macintosh HD/Users/qigroup/Documents/project/blast/in-scanner\
 -Repeat for the VSL folder
  - Adding to the same output_behavioral file
  - Open the subject’s first visual.csv file
- - Column F identifies whether they began with random ‘R’ or structured ‘S’
+ - Column F identifies whether they began with random ‘R’, structured ‘S’, or blank 'B'
  - Column A identifies whether they began with images (e.g. Alien9) or letters (e.g.D)
 **Important Note**: Be sure that spelling is consistent for trial_type. The following should always be used, should never be pluralized, and should be spelled correctly:
    - tone
