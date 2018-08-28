@@ -10,26 +10,26 @@ Macintosh HD/Users/qigroup/Documents/project/blast/in-scanner\
 -Open the ASL folder\
  - Open the subject’s first auditory.csv file\
  - Column F identifies whether they began with random ‘R’, structured ‘S’, or blank 'B'\
- - Column A identifies whether they began with tones (e.g. 1A) or syllables (e.g. pa)\
+ - Column A identifies whether they began with tone (e.g. 1A) or speech (e.g. pa)\
  
 -In the subject’s new output_behavioral file you created, record this information into columns E and F\
  - In column G input which file this came from (A1=auditory run 1; V2=visual run 2)
- ![alt text](https://github.com/juliagoolia28/qlabfmripipe/blob/first-level_analysis/event_data_image1.png)
  - Do this for all the participant's 4 runs (auditory)
  
 -Repeat for the VSL folder
  - Adding to the same output_behavioral file
  - Open the subject’s first visual.csv file
  - Column F identifies whether they began with random ‘R’, structured ‘S’, or blank 'B'
- - Column A identifies whether they began with images (e.g. Alien9) or letters (e.g.D)
+ - Column A identifies whether they began with image (e.g. Alien9) or letter (e.g.D)
 **Important Note**: Be sure that spelling is consistent for trial_type. The following should always be used, should never be pluralized, and should be spelled correctly:
    - tone
-   - syllable
+   - speech
    - image
    - letter
 The below image is an example of what this step completed should look like:
-![alt text](https://github.com/juliagoolia28/qlabfmripipe/blob/first-level_analysis/event_data_image2.png)
+![alt text](https://github.com/juliagoolia28/qlabfmripipe/blob/first-level_analysis/event_data_image.png)
 
+-----------------------------If the below has been completed on 2 participants, stop here ------------------------------
 ## Formatting Log Files
 -Locate .log file
  - Rename by adding _log to the end of the filename
